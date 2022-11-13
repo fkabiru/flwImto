@@ -1,6 +1,7 @@
 package com.flwImto.flwImto.models;
 
 public class Payout {
+    public Payout(){}
     String account_bank;
     String account_number;
     Double amount;

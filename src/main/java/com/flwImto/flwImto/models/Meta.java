@@ -1,6 +1,7 @@
 package com.flwImto.flwImto.models;
 
 public class Meta{
+    public Meta(){}
     String sender;
     String sender_country;
     String mobile_number;
